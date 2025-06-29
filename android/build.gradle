@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 android {
     namespace "com.advoques.document_file_save_plus"
 
-    compileSdk = 35
+    compileSdk = 34
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
